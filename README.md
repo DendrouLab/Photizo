@@ -15,6 +15,6 @@ scanpy==1.6.0;
 leidenalg==0.8.2;
 anndata==0.7.4
 
-We have made available on Zenodo raw spectral data collected from IR imaging with FPA detector from biological specimens to be used with an example workflow written in jupyter notebooks. Detailed information about functionality is available in the documentation. 
+We have made available on Zenodo raw spectral data collected from IR imaging with FPA detector from biological specimens (https://zenodo.org/record/6417982#.Yk2O9TfMI6A), this data is intended to be used with an example workflow written in jupyter notebooks. Detailed information about functionality is available in the documentation. 
 
 This library has been tested with datasets with up to ~300,000 spectra from 19 samples.
